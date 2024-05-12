@@ -1,0 +1,27 @@
+*{
+    background-color: lightblue;
+}
+h1{
+    margin-left: 20px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 20%;
+    margin-left: 30px;
+}
+h3,li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+p{
+    font-size: 17px;
+}
+ul{
+    list-style: none;
+}
+h4{
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
