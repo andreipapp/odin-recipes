@@ -2,7 +2,7 @@
     background-color: lightblue;
 }
 h1{
-    margin-left: 20px;
+    padding-left: 20px;
     font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -24,4 +24,7 @@ h4{
     font-weight: 500;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 17px;
+}
+p,h3{
+    padding-left: 15px;
 }
